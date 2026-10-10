@@ -14,9 +14,9 @@
       {
         "id": 0,
         "title": "Diagrama 1",
-        "diagramType": "STRIDE",
-        "placeholder": "Descripción de nuevo diagrama STRIDE",
-        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "diagramType": "CIADIE",
+        "placeholder": "Descripción de nuevo diagrama CIA-DIE",
+        "thumbnail": "./public/content/images/thumbnail.die.jpg",
         "version": "2.6.2",
         "cells": []
       }
